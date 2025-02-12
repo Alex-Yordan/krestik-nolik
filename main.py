@@ -21,4 +21,4 @@ for i in range(3): #Цикл для создания строк поля
         row.append(btn) #Добавление кнопки внутри ряда
     buttons.append(row) #Добавление сразу 3 кнопок в список buttons
 
-window.mainloop() # Чтобы окно не закрывалось 
+window.mainloop() # Чтобы окно не закрывалось  
